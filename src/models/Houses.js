@@ -1,4 +1,4 @@
-import { Schema, model, SchemaType } from 'mongoose'
+import { Schema, model } from 'mongoose'
 
 const HouseSchema = new Schema(
     {
